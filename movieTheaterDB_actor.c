@@ -1,6 +1,4 @@
-/**
- * 251292956 - skullar5
-*/
+
 // include header file for actors of movie theater database 
 #include "movieTheaterDB_actor.h"
 // include standard input output, library, string manipulation, character functions
