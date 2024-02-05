@@ -1,6 +1,4 @@
-/**
- * 251292956 - skullar5
-*/
+
 #ifndef MOVIE_THEATER_DB_ACTOR_H
 #define MOVIE_THEATER_DB_ACTOR_H
 
