@@ -1,6 +1,4 @@
-/**
- * 251292956 - skullar5
-*/
+
 #ifndef RELATIONSHIP_H
 #define RELATIONSHIP_H
 
