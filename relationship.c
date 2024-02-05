@@ -1,6 +1,4 @@
-/**
- * 251292956 - skullar5
-*/
+
 // include header file for movie/actor relationship of movie theater database 
 #include "relationship.h"
 // include standard input output, library, string manipulation, character functions
