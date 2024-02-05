@@ -1,6 +1,4 @@
-/**
- * 251292956 - skullar5
-*/
+
 // include header file for movie theater database 
 // include header file for movies/actors relationships of movie theater database 
 #include "movieTheaterDB.h"
